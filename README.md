@@ -1,3 +1,3 @@
-## EKPA
+# Example of README.md
 
-**HELLO**
+
